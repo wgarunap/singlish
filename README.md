@@ -1,9 +1,18 @@
+<p align="center">
+<img 
+    src="logo.png" 
+    width="240" height="240" border="0" alt="Singlish">
+</p>
+
+<p align="center">Convert Sinhala to Singlish in Golang</a></p>
+
+
 # Singlish
 [![Test](https://github.com/wgarunap/singlish/actions/workflows/go.yml/badge.svg)](https://github.com/wgarunap/singlish/actions/workflows/go.yml/badge.svg)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/wgarunap/singlish/blob/main/LICENSE)
 [![GitHub Release](https://img.shields.io/github/release/wgarunap/singlish.svg?style=flat)](https://github.com/wgarunap/singlish/releases)
 ### Overview
-Sinhala to Singlish converter in Golang. accuracy is not 100% guaranteed. Tested for main words and strings only.
+accuracy is not 100% guaranteed. Tested for main words and strings only.
 
 ### Use Repository
 ```shell
