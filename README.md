@@ -49,7 +49,7 @@ Benchmark Results
 ```shell
 goos: darwin
 goarch: amd64
-pkg: github.com/wgarunap/sinhala-to-singlish
+pkg: github.com/wgarunap/singlish
 cpu: Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz
 BenchmarkTranslate1Char-4        4068814               283.9 ns/op
 BenchmarkTranslate4Char-4        1000000              1018 ns/op
@@ -58,6 +58,6 @@ BenchmarkTranslate4Char-4        1000000              1018 ns/op
 
 ### Contributions
 
-I am more than happy to receive contribute to this repository.
+I am more than happy to receive contributions to this repository.
 
 contact : wg.aruna.p@gmail.com
