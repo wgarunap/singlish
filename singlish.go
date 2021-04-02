@@ -56,8 +56,6 @@ func TranslateString(text string) (translated string) {
 				translated += let
 				continue
 			}
-		} else if unicode.IsSpace(c) {
-			translated += " "
 		}
 	}
 	return translated

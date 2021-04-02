@@ -7,7 +7,7 @@ func TestTranslate(t *testing.T) {
 		in  string
 		out string
 	}{
-		{"දැක්වෙන", "dhekwena"},
+		{"දැක්වෙන රුක", "dhekwena ruka"},
 		{"රුක", "ruka"},
 		{"රූක", "ruuka"},
 		{"රෑක", "reaka"},
